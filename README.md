@@ -116,5 +116,5 @@ Prompt engineering plays an important role in creating structured and high-quali
 
 ## 🔗 Author
 
-Tarun Maddimsetty  
+Tarun-Maddimsetty  
 Prompt Engineering Intern – Future Interns
